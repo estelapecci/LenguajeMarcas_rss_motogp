@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>MotoGP 2026</title>
+<link>https://es.wikipedia.org/wiki/Temporada_2026_de_MotoGP</link>
+<description>Todo sobre motoGP</description>
+<copyright>By Estela Pecci</copyright>
+
+
+<item>
+<title>MotoGP</title>
+<link>https://www.motogp.com/es/calendar/2026?view=grid</link>
+<description>Repasamos las fechas clave de la temporada, nuevos circuitos y cambios en el formato.</description>
+<author>Equipo editorial de MotoGP.com</author>
+<pubDate>2 de enero de 2026</pubDate>
+<enclosure url="https://www.motogp.com/podcasts/espana2025-analisis.mp3" type="audio/mpeg" length="8500000" />
+</item>  
+
+<item>
+<title>MotoGP Jerez</title>
+<link>https://www.motogp.com/es/news/2025/04/28/live-text-2025-jerez-test/747234</link>
+<description>Crónica completa del Gran Premio de España en Jerez: como fue la emoción del trazado andaluz.</description>
+<author>Equipo editorial de MotoGP.com</author>
+<pubDate>29 de abril de 2025</pubDate>
+<enclosure url="https://www.motogp.com/podcasts/espana2025-analisis.mp3" type="audio/mpeg" length="8500000" />
+</item>  
+
+<item>
+<title>Pedro Acosta: el tiburón de Mazarrón</title>
+<link>https://www.motogp.com/es/riders/pedro-acosta/ea39a0af-95d3-4a37-81a7-f332efdb9216</link>
+<description>Vemos lo que podemos esperar de él esta temporada en MotoGP 2026.</description>
+<author>Equipo editorial de MotoGP.com</author>
+<pubDate>24 de enero de 2026</pubDate>
+<enclosure url="https://motogp.com/audios/pedro-acosta.ogg" type="audio/ogg" length="540000" />
+</item>
+
+<item>
+<title>Marc Márquez: "Me siento mejor que nunca"</title>
+<link>https://www.motogp.com/es/news/2026/marquez-entrevista</link>
+<description>El ocho veces campeón del mundo habla sobre su recuperación y sus opciones para la temporada 2026.</description>
+<author>Equipo editorial de MotoGP.com</author>
+<pubDate>15 de febrero de 2026</pubDate>
+<enclosure url="https://motorspanol.example/audios/marquez.ogg" type="audio/ogg" length="5200000" />
+</item>
+
+<item>
+<title>Circuito de Jerez Ángel Nieto: historia y novedades 2026</title>
+<link>https://circuitodejerez.com/2025/12/29/calendario-deportivo-del-circuito-de-jerez-durante-la-temporada-2026/</link>
+<description>El trazado andaluz, que acoge el Gran Premio de España del 24 al 26 de abril, ha batido récords de asistencia y renueva su acuerdo con Dorna hasta 2031. Además, albergará un test oficial de MotoGP el 27 de abril y acoge estos días pruebas privadas de Aprilia, KTM y Yamaha con los neumáticos Pirelli de 2027.</description>
+<author>Redacción Circuito de Jerez</author>
+<pubDate>9 de marzo de 2026</pubDate>
+<enclosure url="https://motorspanol.example/audios/circuito-jerez-reportaje.mp3" type="audio/mpeg" length="6800000" />
+</item>
+
+</channel>
+</rss>
